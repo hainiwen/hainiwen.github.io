@@ -1,1 +1,42 @@
 /* css styles */
+
+/* Keep about section links horizontal even on mobile */
+div.quarto-about-solana .about-entity .about-links,
+.about-links {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: flex-start !important;
+  flex-wrap: wrap !important;
+  gap: 1.5rem !important;
+  align-items: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* On mobile, center the links but keep them horizontal */
+@media (max-width: 991px) {
+  div.quarto-about-solana .about-entity .about-links {
+    justify-content: center !important;
+    flex-direction: row !important;
+  }
+}
+
+/* Style individual links */
+div.quarto-about-solana .about-entity .about-link {
+  font-size: 1rem;
+  border-style: none;
+  transition: all 0.35s ease;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+div.quarto-about-solana .about-entity .about-link:hover {
+  transform: scale(1.15);
+  opacity: 0.8;
+}
+
+/* Remove first-child margin issues */
+div.quarto-about-solana .about-entity .about-link:first-child {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}

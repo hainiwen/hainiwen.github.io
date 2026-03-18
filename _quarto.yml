@@ -1,21 +1,21 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "personal website"
+  title: "Haini Wen"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    center: "© Haini Wen · Uppsala University"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-
-
+    theme: cosmo
+    toc: false

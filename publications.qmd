@@ -1,0 +1,37 @@
+---
+title: "Publications"
+---
+
+## Clinical Pharmacology & Pharmacometrics
+
+**2025** · Wen H, Sadiq MW, Friberg LE, Svensson EM. A pulmonary population PBPK model for sampling design evaluation. *PAGE Abstract.* [(link)](https://www.pagemeeting.org/default.asp?abstract=11747) *(manuscript under review)*
+
+**2025** · Wen H, Sadiq MW, Friberg LE, Svensson EM. Translational physiologically based pharmacokinetic modeling to predict human pulmonary kinetics after lung delivery. *CPT Pharmacometrics Syst Pharmacol.* 2025 Apr;14(4):796–806. [doi:10.1002/psp4.13316](https://doi.org/10.1002/psp4.13316)
+
+**2022** · Wen HN, He QF, Xiang XQ, Jiao Z, Yu JG. Predicting drug-drug interactions with PBPK/PD modelling and optimal dosing of apixaban and rivaroxaban with dronedarone co-administration. *Thromb Res.* 2022 Oct;218:24–34. [doi: 10.1016/j.thromres.2022.08.007](https://doi.org/10.1016/j.thromres.2022.08.007). 
+
+**2022** · Wen HN, Wang CY, Li JM, Jiao Z. Precision Cardio-Oncology: Use of mechanistic PK/PD modeling to predict cardiotoxicities of anti-cancer drugs. *Front Oncol.* 2022;11:814699. [doi: 10.3389/fonc.2021.814699](https://doi.org/10.3389/fonc.2021.814699)
+
+**2022** · Wen H, et al. Population pharmacokinetics and model-informed precision dosing of lamivudine in Chinese HIV-infected patients with renal impairment. *Expert Rev Clin Pharmacol.* 2022 May;15(5):647–655. [doi: 10.1080/17512433.2022.2078306](https://doi.org/10.1080/17512433.2022.2078306).
+
+**2021** · Wen HN, Liu YX, Xu D, Zhao KJ, Jiao Z. Population pharmacokinetic modeling of pyrotinib in HER2-positive advanced or metastatic breast cancer. *Eur J Pharm Sci.* 2021 Jan;159:105729. [doi: 10.1016/j.ejps.2021.105729](https://doi.org/10.1016/j.ejps.2021.105729).
+
+**2021** · Liu YX, Wen HN, et al. External evaluation of vancomycin population pharmacokinetic models at two clinical centers. *Front Pharmacol.* 2021 Mar;12:623907. [doi: 10.3389/fphar.2021.623907](https://doi.org/10.3389/fphar.2021.623907).
+
+---
+
+## Clinical Studies & Case Reports
+
+**2021** · Yang T\*, Wen H\*, et al. Relationship between leaflets and root in normal aortic valve based on CT imaging. *Front Cardiovasc Med.* 2021 Nov;8:731440. *(co-first author)* [doi: 10.3389/fcvm.2021.731440](https://doi.org/10.3389/fcvm.2021.731440)
+
+**2020** · Wen HN, et al. Probable drug interaction between etanercept and cyclosporine: first case report. *Front Pharmacol.* 2020 Jun;11:939. [doi.org/10.3389/fphar.2020.00939](https://doi.org/10.3389/fphar.2020.00939)
+
+**2020** · Wen H, et al. A simple method to identify undiagnosed drug-induced liver injury (DILI) in oncology pharmacy practice. *J Oncol Pharm Pract.* 2020 Jul;26(5):1060–1069. [doi: 10.1177/1078155219880604](https://doi.org/10.1177/1078155219880604). 
+
+---
+
+## Data Science
+
+**2020** · Lane JCE, Weaver J, ..., Wen H, et al. Risk of hydroxychloroquine alone and in combination with azithromycin in rheumatoid arthritis: a multinational retrospective study. *Lancet Rheumatol.* 2020 Nov;2(11):e698–e711. [doi:10.1016/S2665-9913(20)30276-9](https://doi.org/10.1016/S2665-9913(20)30276-9)
+
+**2020** · Burn E, You SC, ..., Wen H, et al. Deep phenotyping of 34,128 adult patients hospitalised with COVID-19 in an international network study. *Nat Commun.* 2020 Oct;11(1):5009. [doi.org/10.1038/s41467-020-18849-z](https://doi.org/10.1038/s41467-020-18849-z)

@@ -1,0 +1,52 @@
+---
+title: "Curriculum Vitae"
+---
+
+[📄 Download CV (PDF)](files/Haini_Wen_CV.pdf)
+
+## Research Experience
+
+**PhD Researcher** · Uppsala University · Mar 2023–present
+
+- Translational PBPK modelling for pulmonary drug delivery, in collaboration with AstraZeneca.
+- Predictive framework for gallium-based antimicrobial nanoparticles, in collaboration with Karolinska Institutet.
+
+**Clinical Pharmacist Researcher** · Shanghai Chest Hospital · Sep 2021–Jan 2022
+
+- PBPK/PD modelling of drug-drug interactions of dronedarone with anticoagulants.
+
+---
+
+## Professional Experience
+
+**Senior Clinical Pharmacist** · Shanghai Chest Hospital · Aug 2020–Jan 2023
+
+- Established perioperative clinical pharmacy services in cardiovascular surgery.
+- Led multidisciplinary venous thrombosis clinic; individualized anticoagulation dosing.
+- Mentored and precepted new pharmacy staff.
+
+**Clinical Pharmacist** · Shanghai Shu Guang Hospital · Jan 2014–Jul 2020
+
+---
+
+## Teaching
+
+**Teaching Assistant** · Uppsala University · Mar 2023–present
+- Supervising master dissertations; teaching Pharmacokinetics, Clinical trial methodology, Modelling of biological systems.
+
+**Guest Lecturer** · MSc Clinical Pharmacy, Fudan University · Mar 2023–present
+- Seminars on translational PK/PD modelling.
+
+**Teaching Assistant** · Uppsala Pharmacometrics Summer School · Mar 2023–present
+
+
+
+---
+
+## Conferences
+
+- Oral presentation · ICAComp 2025 · *Informing sampling design for lung distribution studies using a pulmonary population PBPK model*
+- Poster · PAGE 2025 · *A pulmonary population PBPK model for sampling design evaluation*
+- Poster · PAGE 2024 · *Translational PBPK modeling to predict human pulmonary kinetics after inhalation*
+- Oral presentation · Asian Pharmacometrics Network Symposium 2022 · *Predicting DDI with PBPK/PD modelling*
+

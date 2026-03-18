@@ -1,7 +1,50 @@
 ---
-title: "personal website"
+title: "Haini Wen"
+subtitle: "Pharmacometrician | PhD Researcher | AI & Modelling Enthusiast"
+image: profile.jpg
+about:
+  template: solana
+  image-shape: round
+  image-width: 9em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:haini.wen@uu.se
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/haini-wen-21348a269/
+    - icon: file-person
+      text: ORCID
+      href: https://orcid.org/0000-0003-2797-2128
+    - icon: journal-richtext
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Haini-Wen
 ---
 
-This is a Quarto website.
+I am a PhD researcher in **Pharmacokinetics and Pharmacodynamics** at Uppsala University,
+supervised by Prof. Lena Friberg and Prof. Elin Svensson.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research focuses on **pharmacometric modelling** to develop antibiotic therapies
+via pulmonary delivery, in collaboration with AstraZeneca and Karolinska Institutet.
+I build translational PBPK models that bridge preclinical and clinical drug development.
+
+I am passionate about applying **machine learning and AI** to pharmacometrics —
+combining mechanistic modelling with data-driven approaches to tackle complex biological problems.
+
+***Based in Uppsala, Sweden. Fluent in English and Mandarin, intermediate Swedish.***
+
+## Education
+
+- ***PhD*** **in Pharmacokinetics & Pharmacodynamics**, 
+  *Uppsala University, Sweden*
+- ***MSc*** **in Pharmaceutical Analysis and Quality Control**,
+  *King's College London, United Kingdom*
+- ***BSc*** **in Pharmacy**, 
+  *Shanghai University of Traditional Chinese Medicine, China*
+
+## Interests
+
+- Hiking
+- Board games
+- Yoga
+- AI for programming
